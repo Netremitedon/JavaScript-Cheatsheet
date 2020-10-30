@@ -38,3 +38,29 @@
   
   [ 2, 12, 3 ].sort();                        // [ 12, 2, 3 ]
 ```
+
+## Object(s)
+
+```
+  const zoo = {
+    panda: '🐼',
+    lion:  '🦁',
+  }
+  
+  
+  // Show keys
+  
+  Object.keys(zoo)    // ['panda', 'lion']
+  
+  
+  // Show values
+  
+  Object.values(zoo)  // [ '🐼', '🦁' ]
+  
+  
+  // Keys & Values
+  
+  Object.entries(zoo) // [[ 'panda, '🐼'], [ 'lion', '🦁' ]]
+  
+  
+```
