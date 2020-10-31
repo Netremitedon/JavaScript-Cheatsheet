@@ -92,3 +92,13 @@ let value = 11 + ''
 // typeof value : string
 
 ```
+
+## Covert to Integer
+
+```
+
+let int = +'15'
+// int = 15
+// typeof int : number
+
+```
