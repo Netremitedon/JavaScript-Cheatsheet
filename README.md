@@ -64,3 +64,10 @@
   
   
 ```
+## Convert Float to Integer
+
+```
+
+const int = 13.7 | 0  // int = 13
+
+```
