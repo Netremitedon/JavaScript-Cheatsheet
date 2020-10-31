@@ -73,7 +73,7 @@ const int = 13.7 | 0  // int = 13
 
 ```
 
-# Covert to Boolean
+## Covert to Boolean
 
 ```
 
