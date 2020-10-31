@@ -73,12 +73,22 @@ const int = 13.7 | 0  // int = 13
 
 ```
 
-## Covert to Boolean
+## Convert to Boolean
 
 ```
 
 let isTrue = !0
 // isTrue = true
 // typeof isTrue : boolean
+
+```
+
+## Convert to String
+
+```
+
+let value = 11 + ''
+// value = '11'
+// typeof value : string
 
 ```
