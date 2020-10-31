@@ -64,10 +64,21 @@
   
   
 ```
+
 ## Convert Float to Integer
 
 ```
 
 const int = 13.7 | 0  // int = 13
+
+```
+
+# Covert to Boolean
+
+```
+
+let isTrue = !0
+// isTrue = true
+// typeof isTrue : boolean
 
 ```
