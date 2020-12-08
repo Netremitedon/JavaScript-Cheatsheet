@@ -1,8 +1,8 @@
 # JavaScript-Cheatsheet
 
 <div style="display: flex; justify-content: space-evenly">
-  <img src="http://pixeltocode.co/images/logo.png" width="180px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" width="200px">
+  <img src="http://pixeltocode.co/images/logo.png" width="180px">
 </div>
 
 
